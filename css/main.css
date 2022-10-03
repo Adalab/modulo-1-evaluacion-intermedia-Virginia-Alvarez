@@ -65,6 +65,7 @@
     .link-logo {
         display: flex;
         justify-content: left;
+        margin-top: 0px;
     }
     
     .logo {

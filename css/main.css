@@ -55,8 +55,6 @@
     .link-logo {
         display: flex;
         justify-content: left;
-        margin-top: 10px;
-        width: 50%;
     }
     
     .logo {
@@ -78,5 +76,15 @@
         font-size: 40px;
     }
 
-    
+    .nav {
+        width: 100vw;
+        top: 0px;
+        position: fixed;
+        background-color: white;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        align-items: center;
+    }
 }

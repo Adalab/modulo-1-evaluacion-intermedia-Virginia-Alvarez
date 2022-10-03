@@ -9,6 +9,11 @@
     top: 0px;
     position: fixed;
     background-color: white;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .link-logo {

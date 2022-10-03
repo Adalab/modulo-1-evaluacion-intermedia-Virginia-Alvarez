@@ -4,6 +4,7 @@
     --fondo-main: #3CDBC0;
     --text-main: #FFFFFF;  
 }
+
 .nav {
     width: 100vw;
     top: 0px;
@@ -36,9 +37,11 @@
     margin-bottom:13px;
     font-family: var(--fuente-Rubik);
 }
+
 .option {
     font-size: 16px;
 }
+
 .main {
     background-color: var(--fondo-main);
     width: 100vw;
@@ -49,6 +52,7 @@
     color:var(--text-main);
     font-family: var(--fuente-Rubik);
 }
+
 .title {
     text-align: center;
     font-size: 30px;
@@ -56,6 +60,7 @@
     font-weight: 800;
 
 }
+
 @media screen and (min-width: 768px){
     .link-logo {
         display: flex;
